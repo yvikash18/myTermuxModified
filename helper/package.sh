@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 PACKAGES=(
-  awesomeshot curl git imagemagick
+  awesomeshot curl git 
    lf   openssh
   neofetch termux-api tmux zsh
 )
