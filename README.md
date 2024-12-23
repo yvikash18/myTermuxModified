@@ -47,7 +47,8 @@ pkg i -y git bc
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone --depth=1 https://github.com/yvikash18/myTermuxModified```
+git clone --depth=1 https://github.com/yvikash18/myTermuxModified
+```
 
   </details>
 
