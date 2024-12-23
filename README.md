@@ -27,7 +27,7 @@
 pkg update && pkg upgrade
 pkg i -y git bc
 git clone --depth=1 https://github.com/yvikash18/myTermuxModified
-cd myTermux
+cd myTermuxModified
 export COLUMNS LINES
 ```
 
